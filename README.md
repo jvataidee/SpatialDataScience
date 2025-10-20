@@ -1,5 +1,3 @@
-![Project Image](SDS.png)
-
 # Spatial Data Science Repository by João Ataíde
 
 This repository is dedicated to his projects in the field of Spatial Data Science. Here, he conducts small case studies seeking insights and hypotheses for business problems, always bringing the spatial variable to the center of the business.
